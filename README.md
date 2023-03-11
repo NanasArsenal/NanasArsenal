@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nana Kweku Otoo
 - 👀 I’m interested in Web Development,Mobile Development and Data Analysis
-- 🌱 I’m currently learning Express JS ,Sail Js and Python 
+- 🌱 I’m currently learning Express JS.
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me nanakwekudev@gmail.com
 
