@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nana Kweku Otoo
-- 👀 I’m interested in Web Development,Mobile Development and Data Analysis
-- 🌱 I’m currently learning Express JS.
+- 👀 I’m a full-stack web develooper (MERN stack).
+- 🌱 I code in mainly JS and sometimes Typescript. 
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me nanakwekudev@gmail.com
 
