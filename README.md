@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nana Kweku Otoo
-- 👀 I’m a full-stack web develooper (MERN stack).
+- 👀 I’m a web develooper.
 - 📫 How to reach me nanakwekudev@gmail.com
 
 <!---
