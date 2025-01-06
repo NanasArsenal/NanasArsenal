@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nana Kweku Otoo
-- 👀 I’m a web developer.
+- 👀 I’m a Software Engineer. 
 - 📫 How to reach me nanakwekudev@gmail.com
 
 <!---
