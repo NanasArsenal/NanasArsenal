@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nana Kweku Otoo
-- 👀 I’m a Software Engineer. 
+- 👀 I’m a Software Engineer.
+- 😎 Fun fact about me: I'd choose Typescript and JavaScript over any language any day 
 - 📫 How to reach me nanakwekudev@gmail.com
 
 <!---
