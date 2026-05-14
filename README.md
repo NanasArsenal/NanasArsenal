@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nana Kweku Otoo
-- 👀 I’m a Software Engineer who utilizes the power of AI to build fast and scalable apps
+- 👀 I’m a Software Engineer who utilizes the power of AI to build fast and scalable apps🚀🚀🚀
 
 
 <!---
