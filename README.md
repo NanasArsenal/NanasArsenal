@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nana Kweku Otoo
-- 👀 I’m a Software Engineer.
-- 😎 Fun fact about me: I'd choose Typescript and JavaScript over any language any day 
-- 📫 How to reach me nanakwekudev@gmail.com
+- 👀 I’m a Software Engineer who utilizes the power of AI to build fast and scalable apps
+
 
 <!---
 NanasArsenal/NanasArsenal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
